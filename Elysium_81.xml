@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Elysium_81" Logo="" Description="">
+	
+		<Server Name="Worlds" Logo="">
+			<Description>
+				Handmade worlds for 7 Days To Die
+			</Description>
+			<EAC>Disabled</EAC>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Alpha17.2</Version>
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/Elysium_81/7dtd-worlds.git</Download>
+			</Downloads>
+		</Server>
+	
+	
+	</ServerGroup>
+</Servers>
